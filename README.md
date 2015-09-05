@@ -18,10 +18,9 @@ iOS 开发者文档中文版
     
 翻译公告:  
 -----------------------------------  
-1.参与翻译的开发者,可以选择自己感兴趣的文档翻译。
+1.参与翻译的开发者,可以查看群共享里的翻译手册流程。
 <br>2.不求最快,但求最精。保障翻译质量。有错误,随时可以提出来,及时更改错误。
 <br>3.翻译之前,请看有没有重复翻译文档。
-<br>4.`正在改建当中,未来几天将要持续完善本社区。`
 
 翻译部分:  
 -----------------------------------  
@@ -42,10 +41,7 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServic
 
 翻译建议:
 ----------------------------------------------
-1.首先进行任务报备,以免重复翻译。参考下面任务报备表格式。
-<br>2.统一术语,详情参考下面术语参考表。
-<br>3.翻译完成后,提交给审核人审核。审核通过后由审核人更新审核状态并署名。
-<br>4.翻译的段落必须签署翻译人的姓名和翻译日期。参考署名格式  `翻译人:xxx 翻译时间:2015.8.31`
+具体查看群共享里的翻译手册流程和规范。
     
 iOS 任务报备表
 ---------------------------------------------
@@ -80,14 +76,6 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadin
 
 `Networking Overview (全部章节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:憩于尘土  审核状态:未审核  审核人:
 https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010220
-
-
-术语参考表
-----------------------------------------------
-稍后会建立术语参考
-
-
-
 
 
 
