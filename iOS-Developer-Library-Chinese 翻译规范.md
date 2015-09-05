@@ -1,4 +1,4 @@
-iOS-Developer-Library-Chinese 翻译规范
+iOS-Developer-Documents-Chinese 翻译规范
 ===
 作者：[KevinHM](https://github.com/KevinHM)
 
