@@ -5,28 +5,16 @@ iOS 开发者文档中文版
 ![go](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/wangzhan-01.jpg?raw=true)
 
 
-为了让国内所有开发者都能很好的阅读iOS Developer 由我**`王谦`**发起了这次活动。
-<br>希望能有更多的开发者加入到我们的行动中来。
-<br>欢迎加入**`QQ群:486111671 iOS 官方文档翻译`**
-<br>我们的宗旨是**`建立中国最完善的iOS官方文档中文版 iOS高质量官方文档倡导者 iOS最顶尖技术布道者`**
-<br>我们的精神是**`一颗初心 求知若渴 虚心若愚 `**
-<br>我们的口号是**`从头开始 关注细节 非同凡响`**
-审核入驻专家
-===================================  
-为了保障本次行动的文档质量，特邀了
-<br>`阿里百川技术专家 风云 茹云峰大神 入驻为审核人`
-<br>`庞海礁大神 入驻为审核人`
-<br>`肖辉枚 KevinHM大神 入驻为审核人`
-<br>陆续会有更多重量级人物加入,请大家加油。
-    
-翻译公告:  
------------------------------------  
-1.参与翻译的开发者,可以查看群共享里的翻译手册流程。
-<br>2.不求最快,但求最精。保障翻译质量。有错误,随时可以提出来,及时更改错误。
-<br>3.翻译之前,请看有没有重复翻译文档。
-<br>4.目前行动已经建立完初具完善的翻译流程和管理制度。后续会配合翻译情况继续完善组织。目前正式开展翻译工作。
-<br>5.`非常感谢KevinHM、庞海礁前辈、Small Tiger、憩于尘土、一帆、Chaos、寂寞梧桐、Developer Zhang等组织成员对我的信任.一定会坚持把这次行动办好。`
+![go](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/logo-01.jpg?raw=true)
 
-翻译建议:
-----------------------------------------------
-想参与到行动中来的开发者,具体查看群共享里的翻译手册流程和规范。
+
+
+
+
+
+
+
+
+
+![go](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/AI文件黑白-02.jpg?raw=true)
+
