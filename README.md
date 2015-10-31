@@ -2,7 +2,7 @@
 iOS 开发者文档中文版  
 ===================================  
 
-![go](./https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/wangzhan-01.jpg)
+![go](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/wangzhan-01.jpg?raw=true)
 
 
 为了让国内所有开发者都能很好的阅读iOS Developer 由我**`王谦`**发起了这次活动。
