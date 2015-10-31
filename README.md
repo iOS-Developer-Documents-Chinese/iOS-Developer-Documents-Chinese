@@ -7,7 +7,7 @@ iOS 开发者文档中文版
 ![go](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese/blob/master/img/wangzhan-01.jpg?raw=true)
 
 
-##公告:
+##公告
 时间过的蛮快的,又和大家见面了。目前支持在 github 和 微信公众平台上的阅读。大家可以扫描下面图片上的二维码关注 The butterfly 的微信公众帐号。从即日起会陆续把前段时间组织的翻译成果陆续公布出来，希望大家多多支持。有错误的地方和需要改善的地方可以联系我们组织。
 
 ##关于微信公众平台
